@@ -8,7 +8,7 @@
 //  Function Name   :   Factorial
 //  Input           :   Integer
 //  Output          :   Integer
-//  Description     :   Accept digit number and print it into word
+//  Description     :   Accept digit number and print factorial of it.
 //  Date            :   31/10/2026
 //  Author          :   Pradnya Anil Harpale
 //
