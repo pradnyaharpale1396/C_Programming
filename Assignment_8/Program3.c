@@ -7,7 +7,7 @@
 //
 //  Function Name   :   Factorial
 //  Input           :   Integer
-//  Output          :   String of characters
+//  Output          :   Integer
 //  Description     :   Accept digit number and print it into word
 //  Date            :   31/10/2026
 //  Author          :   Pradnya Anil Harpale
